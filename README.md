@@ -1,4 +1,5 @@
 # Hi there, I'm Narendra Sah 👋
+[![GitHub Followers](https://img.shields.io/github/followers/narendra180317?style=social)](https://github.com/narendra180317?tab=followers)
 
 **Software Engineer | Full-Stack Developer**  
 📍 Kathmandu, Nepal
